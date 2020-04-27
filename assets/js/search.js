@@ -1,0 +1,3 @@
+var typedoc = typedoc || {};
+            typedoc.search = typedoc.search || {};
+            typedoc.search.data = {"kinds":{"64":"Function","65536":"Type literal","4194304":"Type alias"},"rows":[{"id":0,"kind":4194304,"name":"Validator","url":"globals.html#validator","classes":"tsd-kind-type-alias tsd-has-type-parameter tsd-is-not-exported"},{"id":1,"kind":65536,"name":"__type","url":"globals.html#validator.__type","classes":"tsd-kind-type-literal tsd-parent-kind-type-alias tsd-is-not-exported","parent":"Validator"},{"id":2,"kind":64,"name":"eyval","url":"globals.html#eyval","classes":"tsd-kind-function tsd-has-type-parameter"}]};
