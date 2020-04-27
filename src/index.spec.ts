@@ -1,6 +1,6 @@
 // tslint:disable:no-expression-statement
 import test from 'ava'
-import eyval from './eyval'
+import eyval from '.'
 
 const dummyEmailValidator = (email: string) => email.includes('@')
 const dummyTrueValidator = (_: any) => true
