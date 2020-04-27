@@ -21,7 +21,7 @@ type Validator<T> = (input: T) => boolean
  *
  * validateAge(validAge) // returns true
  * validateAge(tooYoung) // returns false
- * valudateAge(tooOld) // returns false
+ * validateAge(tooOld) // returns false
  * ```
  *
  * ### Another Example using `validator` npm package:
